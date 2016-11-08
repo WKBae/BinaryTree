@@ -1,0 +1,12 @@
+Park  3.4
+Jung  3.8
+Lee   4.1
+Joo   3.1
+Seo   4.2
+Ban   2.9
+Nam   3.0
+Sun   2.5
+Min   3.6
+Cho   3.2
+Tho   2.7
+Jin   3.7
